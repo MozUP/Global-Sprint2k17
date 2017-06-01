@@ -1,3 +1,7 @@
+**After Contributing all are requested to report to Mozilla UP and  to do so read the attached link** [REPORTING.md](REPORTING.md)
+
+
+### General Contribution
 Participants browse our list of awesome projects-- [Featured Projects](https://mozilla.github.io/global-sprint/projects/) and [all registered Sprint projects](https://github.com/mozilla/global-sprint/issues)--and pick a project (or two) to work on during the Sprint. You can join the Sprint online from wherever you happen to be or head to a local host site during the Sprint to meet, work, and network with others -- our [site list and Registration page is here](https://mozilla.github.io/global-sprint/register/).
 
 **There are many ways for you to participate...** 
