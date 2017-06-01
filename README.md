@@ -14,4 +14,4 @@ Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) 
 
 ## Want to contribute to Global Sprint
 
-Thanks for your interest in contributing to the #mozsprint website! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.MD)
+Thanks for your interest in contributing to the #mozsprint website! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md)
