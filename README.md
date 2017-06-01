@@ -1,6 +1,6 @@
 # Mozilla Global Sprint 2017 (Uttar Pradesh)
 
-[![Join the chat at https://gitter.im/mozilla/global-sprint-2017](https://badges.gitter.im/mozilla/global-sprint-2017.svg)](https://gitter.im/mozilla/global-sprint-2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/mozilla/global-sprint-2017]()
 
 Mozilla’s [Global Sprint](https://mozilla.github.io/global-sprint/) is a fun, fast-paced and two-day collaborative event to hack and build projects for a healthy Internet. A diverse network of scientists, educators, artists, engineers and others come together in person and online to innovate in the open.
 
@@ -20,3 +20,13 @@ Thanks for your interest in contributing to the #mozsprint website! There are ma
 ## Report your contribution
 
 We are excited to see your contrinbution, report your contribution in [REPORTING.md](REPORTING.md)
+
+
+## Important Links
+1. [https://mozilla.github.io/global-sprint/](https://mozilla.github.io/global-sprint/)
+2. [https://www.mozillapulse.org/search?keyword=mozsprint](https://www.mozillapulse.org/search?keyword=mozsprint)
+3. [https://github.com/mozilla/global-sprint/issues](https://github.com/mozilla/global-sprint/issues)
+4. [https://mozilla.github.io/global-sprint/participants/](https://mozilla.github.io/global-sprint/participants/)
+5. [https://mozilla.github.io/global-sprint/site-hosts/](https://mozilla.github.io/global-sprint/site-hosts/)
+6. [https://mozilla.github.io/global-sprint/register/](https://mozilla.github.io/global-sprint/register/)
+7. [https://air.mozilla.org/2017-global-sprint-ask-me-anything-2/](https://air.mozilla.org/2017-global-sprint-ask-me-anything-2/)
