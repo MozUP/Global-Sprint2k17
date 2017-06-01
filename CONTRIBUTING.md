@@ -17,9 +17,6 @@ Participants should be aware that their contributions to projects during the Spr
 * **CHECK OUT** our [Registration page](https://mozilla.github.io/global-sprint/register/) to find an in-person site to Sprint with others, if you'd like. Of course, you can also join us online wherever you have internet access.
 * Using the link under your desired site [**REGISTER**](https://mozilla.github.io/global-sprint/register/) as a participant so we know to expect you! You may also select Virtual Participation.  
 
-Here's more on participation on open projects from Abby Cabunoc Mayes, Developer Engagement Manager at Mozilla.
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/m-b3hdxvSMU" frameborder="0" allowfullscreen></iframe>
 
 ### The Global Sprint and Internet Health
 This year we're Sprinting on projects that promote, protect and build the open Web, in line with Mozilla's key issues for Internet health.  
