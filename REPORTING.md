@@ -21,7 +21,11 @@
 
 To report the **Code** contribution , please make a repository copy of all the code that you have created in your personal github account and put the code link in the **REPORTING.md** that you will submit.
 
-* Steps to submit **REPORTING.md** are given above. 
+
+
+
+
+Steps to submit **REPORTING.md** are given above. 
 
 
 :) HAPPY CONTRIBUTING
