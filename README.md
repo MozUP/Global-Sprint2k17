@@ -1,6 +1,6 @@
 # Mozilla Global Sprint 2017 (Uttar Pradesh)
 
-[![Join the chat at https://gitter.im/mozilla/global-sprint-2017](https://gitter.im/mozilla/global-sprint-2017)
+[Join the chat at https://gitter.im/mozilla/global-sprint-2017](https://gitter.im/mozilla/global-sprint-2017)
 
 Mozilla’s [Global Sprint](https://mozilla.github.io/global-sprint/) is a fun, fast-paced and two-day collaborative event to hack and build projects for a healthy Internet. A diverse network of scientists, educators, artists, engineers and others come together in person and online to innovate in the open.
 
